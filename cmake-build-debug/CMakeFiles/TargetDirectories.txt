@@ -1,0 +1,3 @@
+/Users/dimashestakov/Source/CXX/myloxx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dimashestakov/Source/CXX/myloxx/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dimashestakov/Source/CXX/myloxx/cmake-build-debug/CMakeFiles/myloxx.dir
